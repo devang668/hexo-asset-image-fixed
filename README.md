@@ -26,3 +26,7 @@ A tribute to the great spirit of the open source community.
 
 那么他在本地是可以查看的，比如使用 Typora，同时 hexo g  hexo d 推送以后，会被正常的渲染为图像。
 致敬伟大的开源社区精神。
+
+# just start 
+
+npm i hexo-asset-img-devang@latest
