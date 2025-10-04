@@ -22,6 +22,9 @@ hexo
 
 hexo clean && hexo g && hexo s
 
+---
+hello world.
+
 
 
 
